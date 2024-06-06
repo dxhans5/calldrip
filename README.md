@@ -8,12 +8,6 @@ crypto markets.
 
 An option has been added to push this snapshot to an external API in order to further digest the data.
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Laravel][Laravel.com]][Laravel-url]
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
